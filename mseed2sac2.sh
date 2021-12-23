@@ -1,4 +1,5 @@
 #! /bin/sh
+# process mseed files stored in hours
 mseed_folder=/run/media/sangyq/SeisData/JL_Data/originalData/201811/ref
 sac_folder=/run/media/sangyq/SeisData/JL_Data/originalData/201811/sacfile
 mseed2sac_folder=/home/sangyq/Downloads/software/mseed2sac-master
